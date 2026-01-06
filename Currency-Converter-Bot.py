@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
-API_TOKEN = "8431335716:AAEmCz4B5L_bsVqCX6-Ox3DkVyUgx5fqgv0"  # ← твой токен
+API_TOKEN = "00000000000"  # ← твой токен
 EXCHANGE_API = "https://api.exchangerate-api.com/v4/latest/"
 
 # Исправленная инициализация бота с хранилищем
